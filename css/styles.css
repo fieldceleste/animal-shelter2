@@ -13,3 +13,38 @@ body{
   color:lightskyblue;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.column1 {
+  width: 300px;
+  float: left;
+  text-align: center;
+  background-color: lightgrey;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+ul {
+  list-style-type: none;
+  
+}
+.imgquinten {
+  padding-right:5px;
+  padding-left:0px;
+}
+.quinten{
+color: rgb(206, 134, 2);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 40px;
+}
+.column2 {
+  width: 400px;
+  height:615.5px;
+  float: left;
+  margin-left:30px;
+  text-align: center;
+  background-color: lightgrey;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.poppy{
+  color: rgb(206, 134, 2);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  }
