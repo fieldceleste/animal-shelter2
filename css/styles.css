@@ -34,9 +34,9 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-size: 40px;
 }
 .column2 {
-  width: 400px;
+  width: 300px;
   height:615.5px;
-  float: left;
+  float:left;
   margin-left:30px;
   text-align: center;
   background-color: lightgrey;
@@ -48,3 +48,32 @@ font-size: 40px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 40px;
   }
+.column3 {
+  width: 300px;
+  height:615.5px;
+  float: left;
+  margin-left:30px;
+  text-align: center;
+  background-color: lightgrey;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.nayah{
+  color: rgb(206, 134, 2);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  }
+.column4 {
+  width: 300px;
+  height:615.5px;
+  float: left;
+  margin-left:30px;
+  text-align: center;
+  background-color: lightgrey;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+.titus {
+  color: rgb(206, 134, 2);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+}
+
